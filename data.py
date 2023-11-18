@@ -1,5 +1,4 @@
 import requests
-from icecream import ic
 
 parameters = {
     "amount": 10,
